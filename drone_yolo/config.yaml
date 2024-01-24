@@ -1,0 +1,6 @@
+path: C:/Users/tirth/OneDrive/Desktop/drone_yolo/data
+train: images/train
+val: images/train
+
+names:
+  0: fire
