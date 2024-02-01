@@ -1,2 +1,2 @@
 # drone
-Only DC Members except (Vrishank and Sanika)
+Only DC Members except (Vrishank)
