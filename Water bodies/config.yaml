@@ -1,0 +1,6 @@
+path: C:/Users/tirth/OneDrive/Desktop/Object detecxtion/Water Bodies/data
+train: images/train
+val: images/train
+
+names:
+  0: waterbody
