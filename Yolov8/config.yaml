@@ -1,0 +1,7 @@
+path: C:\Users\tejal\OneDrive\Desktop\Yolo\data
+train: images\train
+val: images\train
+
+#classes
+names:
+  0: White_wagtail
